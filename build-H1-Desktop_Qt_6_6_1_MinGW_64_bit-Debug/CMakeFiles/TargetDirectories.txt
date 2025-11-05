@@ -1,7 +1,0 @@
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/H1.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/einoh/Desktop/olio-ohjelmointi/build-H1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
