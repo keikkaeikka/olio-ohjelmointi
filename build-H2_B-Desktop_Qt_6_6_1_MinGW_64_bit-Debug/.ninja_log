@@ -1,0 +1,7 @@
+# ninja log v5
+13	450	7849037953176529	CMakeFiles/H2_B.dir/car.cpp.obj	635ec1238282beb9
+3	677	7849038858089403	CMakeFiles/H2_B.dir/main.cpp.obj	978fbba5457e619c
+677	860	7849038859853999	H2_B.exe	16c31cae3f9acffa
+6	473	7849041013890870	CMakeFiles/H2_B.dir/car.cpp.obj	635ec1238282beb9
+3	578	7849041014926527	CMakeFiles/H2_B.dir/main.cpp.obj	978fbba5457e619c
+578	759	7849041016738907	H2_B.exe	16c31cae3f9acffa
